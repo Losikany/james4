@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">MAVUNO</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_first">First N</string>
+    <string name="hint_register_names">Names</string>
+    <string name="hint_last">Last N</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="hint_county">County :</string>
+    <string name="hint_farmer_buyer_options">Farmer/Buyer :</string>
+    <string name="hint_login_email_address">Email Address</string>
+    <string name="hint_register_email_address">Email Address</string>
+    <string name="hint_login_password">Password</string>
+    <string name="hint_register_password">Password</string>
+    <string name="hint_login_button_login">Login</string>
+    <string name="hint_app_Label">MAVUNO</string>
+    <string name="hint_login_button_register">New User? Register Here</string>
+    <string name="hint_register_button_register">Register</string>
+    <string name="hint_farm_fruits">Fruits</string>
+    <string name="hint_farm_grains">Grains</string>
+    <string name="hint_farm_vegetables">Vegetables</string>
+    <string name="hint_tool_bar_title">Mavuno</string>
+    <string name="hint_frament_name">Content</string>
+    <string name="open">Open</string>
+    <string name="close">close</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="hint_fruits">Fruit Type</string>
+    <string name="hint_fruits_size">Fruit Size(kg)</string>
+    <string name="hint_price">Price per kg in Ksh</string>
+    <string name="hint_photo">Click here to Upload photo</string>
+    <string name="hint_button_submit">Submit</string>
+    <string name="hint_grains">Grains Type</string>
+    <string name="hint_grains_size">Grains Size(kg)</string>
+    <string name="hint_grains_price">Grains per kg in Ksh</string>
+    <string name="hint_vegetables">Vegetables Type</string>
+    <string name="hint_vegetables_size">Vegetables Size(kg)</string>
+    <string name="hint_livestock_beef">Beef Products</string>
+    <string name="hint_livestock_dairy">Dairy Products</string>
+    <string name="hint_livestock_poultry">Poultry Products</string>
+    <string name="hint_processed_honey">Natural packed Honey</string>
+    <string name="hint_bees_tools">Bees Tools</string>
+    <string name="hint_category">Category</string>
+    <string name="hint_meat_type">Meat Type</string>
+    <string name="hint_cow">Cow</string>
+    <string name="hint_goat">Goat</string>
+    <string name="hint_sheep">Sheep</string>
+    <string name="hint_number_kg">Number of Kg(s)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

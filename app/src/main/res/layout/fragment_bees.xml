@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <Button
+                android:id="@+id/button_honey"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/fruits_background"
+                android:drawableTop="@drawable/hny"
+                android:padding="16dp"
+                android:hint="@string/hint_processed_honey"
+                android:textStyle="bold"
+                android:textSize="30sp"
+                android:textColor="@android:color/white" />
+
+            <Button
+                android:id="@+id/button_bees_tools"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/grains_background"
+                android:drawableTop="@drawable/tool"
+                android:padding="16dp"
+                android:hint="@string/hint_bees_tools"
+                android:textStyle="bold"
+                android:layout_marginTop="16dp"
+                android:textSize="25sp"
+                android:textColor="@android:color/black" />
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
